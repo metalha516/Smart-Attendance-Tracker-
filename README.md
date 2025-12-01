@@ -25,12 +25,7 @@ Smart QR Code-Based Attendance Management System with Modern GUI - Track student
 
 ### Installation
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/Smart-Attendance-Tracker.git
-   cd Smart-Attendance-Tracker
-   ```
-2. **Run the application**
+1. **Run the application**
    ```bash
    Main.exe.
    ```
